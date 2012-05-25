@@ -28,7 +28,6 @@
 #include <string>
 #include <stdexcept>
 #include <sqlite3.h>
-#include <boost/cstdint.hpp>
 #include <boost/utility.hpp>
 #include <boost/tuple/tuple.hpp>
 #include <boost/iterator/iterator_facade.hpp>
